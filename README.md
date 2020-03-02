@@ -21,3 +21,10 @@ Following are useful commands:
 ### Django
 
 ```python manage.py runserver 8080```
+
+### Sauce
+
+* https://newsapi.org
+* https://docs.aws.amazon.com/comprehend/latest/dg/comprehend-general.html
+* https://console.aws.amazon.com/comprehend/home?region=us-east-1#home
+* https://www.djangoproject.com
